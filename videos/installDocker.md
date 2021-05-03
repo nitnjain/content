@@ -30,4 +30,4 @@
 
 It should say somewhere *ACTIVE (running)* which will tell you that Docker is successfully installed and running.
 
-Video Link: https://youtu.be/TYi4SHcUh7Y
+Video Link: https://youtu.be/7EFlEY83zBY
